@@ -110,47 +110,5 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "235"
-	},
-	{
-		"productSize": "",
-		"item": "LONDONPORT ROAST BEEF",
-		"plu_upc": "",
-		"price": " $6.95 ",
-		"productId": "915"
-	},
-	{
-		"productSize": "",
-		"item": "ITALIAN ROAST BEEF TOP-ROUND",
-		"plu_upc": "",
-		"price": " $6.95 ",
-		"productId": "232"
-	},
-	{
-		"productSize": "",
-		"item": "SEASOND ROAST BEEF TOP-ROUND",
-		"plu_upc": "",
-		"price": " $6.95 ",
-		"productId": "246"
-	},
-	{
-		"productSize": "",
-		"item": "CORNED BEEF TOP-ROUND",
-		"plu_upc": "",
-		"price": " $6.50 ",
-		"productId": "197"
-	},
-	{
-		"productSize": "",
-		"item": "PASTRAMI BEEF TOP-ROUND",
-		"plu_upc": "",
-		"price": " $6.50 ",
-		"productId": "205"
-	},
-	{
-		"productSize": "",
-		"item": "LONDON BROIL ROAST BEEF",
-		"plu_upc": "",
-		"price": " $6.95 ",
-		"productId": "12011"
 	}
 ]
