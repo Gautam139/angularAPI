@@ -5,8 +5,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "102",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -14,8 +12,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "159",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -23,8 +19,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "105",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -32,8 +26,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "156",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -41,8 +33,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "150",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -50,8 +40,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "151",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -59,8 +47,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "166",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -68,8 +54,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "11005",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -77,8 +61,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "158",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -86,8 +68,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "173",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -95,8 +75,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "189",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -104,8 +82,6 @@
 		"plu_upc": "",
 		"price": " $4.95 ",
 		"productId": "11018",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -113,8 +89,6 @@
 		"plu_upc": "",
 		"price": " $5.15 ",
 		"productId": "11044",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -122,8 +96,6 @@
 		"plu_upc": "",
 		"price": " $5.79 ",
 		"productId": "11022",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -131,8 +103,6 @@
 		"plu_upc": "",
 		"price": " $4.95 ",
 		"productId": "11018",
-		"catId": "1",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -140,8 +110,6 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "235",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -149,8 +117,6 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "915",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -158,8 +124,6 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "232",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -167,8 +131,6 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "246",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -176,8 +138,6 @@
 		"plu_upc": "",
 		"price": " $6.50 ",
 		"productId": "197",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -185,8 +145,6 @@
 		"plu_upc": "",
 		"price": " $6.50 ",
 		"productId": "205",
-		"catId": "2",
-		"uom": "LB"
 	},
 	{
 		"productSize": "",
@@ -194,7 +152,5 @@
 		"plu_upc": "",
 		"price": " $6.95 ",
 		"productId": "12011",
-		"catId": "2",
-		"uom": "LB"
 	}
 ]
