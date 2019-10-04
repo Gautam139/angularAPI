@@ -1,0 +1,200 @@
+[
+	{
+		"productSize": "",
+		"item": "DELUXE COOKED HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "102",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "DELUXE LOW-SODIUM COOKED HAM ",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "159",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "DELUXE LOW-SODIUM WHOLE HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "105",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "SMOKED VIRGINA HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "156",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "HONEY MAPLE HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "150",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "HONEY MAPLE HAM 1/2",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "151",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "BAVARIAN SMOKED HAM ",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "166",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "BLACK FOREST BEECHWOOD HAM L/S",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "11005",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "TAVERN SMOKED HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "158",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "ROSEMARY HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "173",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "PESTO PARMESAN HAM",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "189",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "DELI SWEET SLICE SMOKED HAM",
+		"plu_upc": "",
+		"price": " $4.95 ",
+		"productId": "11018",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "HABANERO HAM ",
+		"plu_upc": "",
+		"price": " $5.15 ",
+		"productId": "11044",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "ITALIAN RSTD HAM (PROSC COTTO)",
+		"plu_upc": "",
+		"price": " $5.79 ",
+		"productId": "11022",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "SUNDAY HOT HAM (SWEET SLICE)",
+		"plu_upc": "",
+		"price": " $4.95 ",
+		"productId": "11018",
+		"catId": "1",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "DELUXE ROAST BEEF TOP-ROUND",
+		"plu_upc": "",
+		"price": " $6.95 ",
+		"productId": "235",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "LONDONPORT ROAST BEEF",
+		"plu_upc": "",
+		"price": " $6.95 ",
+		"productId": "915",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "ITALIAN ROAST BEEF TOP-ROUND",
+		"plu_upc": "",
+		"price": " $6.95 ",
+		"productId": "232",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "SEASOND ROAST BEEF TOP-ROUND",
+		"plu_upc": "",
+		"price": " $6.95 ",
+		"productId": "246",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "CORNED BEEF TOP-ROUND",
+		"plu_upc": "",
+		"price": " $6.50 ",
+		"productId": "197",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "PASTRAMI BEEF TOP-ROUND",
+		"plu_upc": "",
+		"price": " $6.50 ",
+		"productId": "205",
+		"catId": "2",
+		"uom": "LB"
+	},
+	{
+		"productSize": "",
+		"item": "LONDON BROIL ROAST BEEF",
+		"plu_upc": "",
+		"price": " $6.95 ",
+		"productId": "12011",
+		"catId": "2",
+		"uom": "LB"
+	}
+]
