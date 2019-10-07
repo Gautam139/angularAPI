@@ -3,112 +3,112 @@
 		{
 			"productImg": "https://picsum.photos/id/1057/200/200",
 			"item": "DELUXE COOKED HAM",
-			"product_name": "Food 1",
+			"productName": "Food 1",
 			"price": " $5.15 ",
 			"productId": "102"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1058/200/200",
 			"item": "DELUXE LOW-SODIUM COOKED HAM ",
-			"product_name": "Food 2",
+			"productName": "Food 2",
 			"price": " $5.15 ",
 			"productId": "159"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1059/200/200",
 			"item": "DELUXE LOW-SODIUM WHOLE HAM",
-			"product_name": "Food 3",
+			"productName": "Food 3",
 			"price": " $5.15 ",
 			"productId": "105"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1060/200/200",
 			"item": "SMOKED VIRGINA HAM",
-			"product_name": "Food 1",
+			"productName": "Food 1",
 			"price": " $5.15 ",
 			"productId": "156"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1061/200/200",
 			"item": "HONEY MAPLE HAM",
-			"product_name": "Food 4",
+			"productName": "Food 4",
 			"price": " $5.15 ",
 			"productId": "150"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1062/200/200",
 			"item": "HONEY MAPLE HAM 1/2",
-			"product_name": "Food 5",
+			"productName": "Food 5",
 			"price": " $5.15 ",
 			"productId": "151"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1063/200/200",
 			"item": "BAVARIAN SMOKED HAM ",
-			"product_name": "Food 6",
+			"productName": "Food 6",
 			"price": " $5.15 ",
 			"productId": "166"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1064/200/200",
 			"item": "BLACK FOREST BEECHWOOD HAM L/S",
-			"product_name": "Food 7",
+			"productName": "Food 7",
 			"price": " $5.15 ",
 			"productId": "11005"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1065/200/200",
 			"item": "TAVERN SMOKED HAM",
-			"product_name": "Food 8",
+			"productName": "Food 8",
 			"price": " $5.15 ",
 			"productId": "158"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1066/200/200",
 			"item": "ROSEMARY HAM",
-			"product_name": "Food 1",
+			"productName": "Food 1",
 			"price": " $5.15 ",
 			"productId": "173"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1067/200/200",
 			"item": "PESTO PARMESAN HAM",
-			"product_name": "Food 9",
+			"productName": "Food 9",
 			"price": " $5.15 ",
 			"productId": "189"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1068/200/200",
 			"item": "DELI SWEET SLICE SMOKED HAM",
-			"product_name": "Food 10",
+			"productName": "Food 10",
 			"price": " $4.95 ",
 			"productId": "11018"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1069/200/200",
 			"item": "HABANERO HAM ",
-			"product_name": "Food 11",
+			"productName": "Food 11",
 			"price": " $5.15 ",
 			"productId": "11044"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1070/200/200",
 			"item": "ITALIAN RSTD HAM (PROSC COTTO)",
-			"product_name": "Food 12",
+			"productName": "Food 12",
 			"price": " $5.79 ",
 			"productId": "11022"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1071/200/200",
 			"item": "SUNDAY HOT HAM (SWEET SLICE)",
-			"product_name": "Food 13",
+			"productName": "Food 13",
 			"price": " $4.95 ",
 			"productId": "11018"
 		},
 		{
 			"productImg": "https://picsum.photos/id/1072/200/200",
 			"item": "DELUXE ROAST BEEF TOP-ROUND",
-			"product_name": "Food 14",
+			"productName": "Food 14",
 			"price": " $6.95 ",
 			"productId": "235"
 		}
